@@ -1,0 +1,11 @@
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform binaries
+terraform/terraform.exe
